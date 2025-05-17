@@ -4,7 +4,7 @@ Your Smart Healthcare Companion
 
 
 <div align="center">
-  <img src="https://github.com/nihal29055/MedRepo/raw/main/public/logo.jpg" alt="MedReport Logo" width="200"/>
+ 
   <br>
   <p><strong>Simplifying healthcare information with AI</strong></p>
 </div>
