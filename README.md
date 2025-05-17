@@ -1,5 +1,7 @@
 
-# MedReport: AI-Powered Medical Report Summarization
+# MediLink
+Your Smart Healthcare Companion
+
 
 <div align="center">
   <img src="https://github.com/nihal29055/MedRepo/raw/main/public/logo.jpg" alt="MedReport Logo" width="200"/>
@@ -9,8 +11,7 @@
 
 ## 🩺 Project Overview
 
-MedReport is an AI-driven, secure platform that leverages OCR, NLP, AI analytics, and blockchain technology to extract insights from medical reports. Our mission is to improve accessibility of medical information and ensure compliance with HIPAA/GDPR regulations.
-
+MediLink is an AI-powered platform that connects patients with verified doctors for real-time chat and video consultations. Upload medical reports, get simplified insights using AI & NLP, track your health trends, and store records securely with blockchain — all in one place.
 The application transforms complex medical reports into easy-to-understand summaries, helping patients and healthcare providers make better healthcare decisions through accessible, secure, and intelligent data processing.
 
 ## ✨ Key Features
@@ -56,10 +57,10 @@ The application transforms complex medical reports into easy-to-understand summa
 
 ```bash
 # Clone the repository
-git clone https://github.com/nihal29055/MedRepo.git
+git clone https://github.com/nihal29055/MediLink.git
 
 # Navigate to the project directory
-cd MedRepo
+cd MediLink
 
 # Install dependencies
 npm install
@@ -127,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Project Lead - [yadavnihal544@gmail.com](mailto:yadavnihal544@gmail.com)
 
-Project Link: [https://github.com/nihal29055/MedRepo](https://github.com/nihal29055/MedRepo)
+Project Link: [https://github.com/nihal29055/MediLink](https://github.com/nihal29055/MediLink)
 
 ---
 
