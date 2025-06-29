@@ -9,6 +9,7 @@ const patientSchema = new mongoose.Schema({
     phone: { type: String, required: true },
     email: { type: String, required: true },
   },
+  bed: { type: mongoose.Schema.Types.ObjectId, ref: 'Bed', required: false },
   createdAt: { type: Date, default: Date.now },
 });
 
